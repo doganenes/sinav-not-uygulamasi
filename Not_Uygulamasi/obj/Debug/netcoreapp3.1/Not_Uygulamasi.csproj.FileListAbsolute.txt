@@ -1,0 +1,13 @@
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\bin\Debug\netcoreapp3.1\Not_Uygulamasi.exe
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\bin\Debug\netcoreapp3.1\Not_Uygulamasi.deps.json
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\bin\Debug\netcoreapp3.1\Not_Uygulamasi.runtimeconfig.json
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\bin\Debug\netcoreapp3.1\Not_Uygulamasi.runtimeconfig.dev.json
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\bin\Debug\netcoreapp3.1\Not_Uygulamasi.dll
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\bin\Debug\netcoreapp3.1\Not_Uygulamasi.pdb
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\obj\Debug\netcoreapp3.1\Not_Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\obj\Debug\netcoreapp3.1\Not_Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\obj\Debug\netcoreapp3.1\Not_Uygulamasi.AssemblyInfo.cs
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\obj\Debug\netcoreapp3.1\Not_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\obj\Debug\netcoreapp3.1\Not_Uygulamasi.dll
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\obj\Debug\netcoreapp3.1\Not_Uygulamasi.pdb
+C:\Users\casper\Desktop\C# Dersleri - Geleceği Yazanlar\6 - String Değişkenler\Not_Uygulamasi\Not_Uygulamasi\obj\Debug\netcoreapp3.1\Not_Uygulamasi.genruntimeconfig.cache

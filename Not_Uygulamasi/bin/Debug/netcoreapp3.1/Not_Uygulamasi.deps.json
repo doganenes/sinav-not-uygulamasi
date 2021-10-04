@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Not_Uygulamasi/1.0.0": {
+        "runtime": {
+          "Not_Uygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Not_Uygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
